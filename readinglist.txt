@@ -15,3 +15,4 @@ An Astronaut's Guide To Life On Earth - Col. Chris Hadfield
 Effective Python - Brett Slatkin
 Into Thin Air - Jon Krakauer
 Lean Startup - Eric Ries
+The Sun Also Rises - Ernest Hemingway
