@@ -1,5 +1,9 @@
 An exciting book that will leave you feeling inspired
 
+* Learn what an experienced person would know to approach a challenge
+* Picture Crazy scenario's that require even more preparation, it is the edge/ corner cases that make one standout
+* Prepare until the fear from the previous step is defeated
+
 * To become the best one must fully understand the basics.
 * The hard challenges that deter others, when overcome make you great.
 * It is all about the Journey, not the destination.
