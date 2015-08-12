@@ -4,7 +4,7 @@ An exciting book that will leave you feeling inspired
 * Picture Crazy scenario's that require even more preparationit is the edge/ corner cases that make one standout
 * Prepare until the fear from the previous step is defeated
 * To become the best one must fully understand the basics.
-* The hard challenges that deter others, when overcome make you great.
+* The hard challenges that deter others, when overcome should make you proud.
 * It is all about the Journey, not the destination.
 * Dream Big, respect others, work hard, be happy
 
