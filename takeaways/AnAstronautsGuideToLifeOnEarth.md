@@ -1,6 +1,9 @@
 An exciting book that will leave you feeling inspired
 
-To become the best one must fully understand the basics.
+* To become the best one must fully understand the basics.
+* The hard challenges that deter others, when overcome make you great.
+* It is all about the Journey, not the destination.
+* Dream Big, respect others, work hard, be happy
 
 ## Have an Attitude
 
