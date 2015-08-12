@@ -49,20 +49,35 @@ Study hard, prepare aggressively and respect the little details,
 because when it comes down to it, whoever prepared the most, will excel the
 farthest.
 
-## The Last People in the World
 
 ## Whats the next thing that could kill me
+When preparing for a task, always know what the next thing that could kill you
+might be. This works particularly well in high pressure situations when you have
+to think on your feet. Thinking this way goes hand in hand with the power
+of negative thinking. It pushes you to consider the areas you havent considered
+before and to come up with plans to address them. This is the best way to push
+your comfort zone, it is all about finding gaps in your knowledge.
 
-## Tranquility Base Kazakhstan
-
-## How to Get blasted and feel good the Next Day
 
 ## Aim to Be a Zero
+This particular topic stuck out to me. In Chris Hadfield's eyes there are 3
+types of people, `-1`, `0`, `+1`. Chris notes how it is best to aim to be a zero
+when entering a new situation. A zero is someone who enters a situation and
+doesn't cause a ripple, but helps and is knowledgable when neccesary. Chris
+explains that aiming to be a zero doesn't mean sacrificing quality, or doing less
+it is a sure-fire way to stay humble. People will quickly realize that you are
+a plus 1 acting as a 0, and that generates respect. People know you aren't
+flashy or cocky, you are just good at what you do. Sometimes when people
+try to hard to be a +1 they come off poorly and leave a negative impression
+on coworkers. Strive to be the best you can be, be ready for your moment to
+shine, but always keep yourself humble and push the people around you up.
 
-## Life Off Earth
-
-## Square Astronaut, Round Hole
-
-## Soft Landings
 
 ## Climbing Down The Ladder
+Chris never looks back and misses space. Sure he enjoyed it but he feels he
+took the time, enjoyed every drop of it, and made a significant impact.
+He feels if you do something correctly, there is no need to dwell, or act like
+that is the pinnacle of your life.
+```It is just another chapter in the story,
+there are more experiences out there than there is time to enjoy them, so dont
+waste a minute of your life, be great.```
