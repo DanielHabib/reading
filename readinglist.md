@@ -1,17 +1,13 @@
 Reading List - 2015
-To Read
-______________________
+
+##To Read
 Doing Business Anywhere - Tom Travis
 
-
-Reading
-______________________
+## Reading
 Cracking the Coding Interview 6th Edition - Gayle Laakmann Mcdowell
 
-Read
-______________________
+## Read
 Elon Musk - Ashlee Vance
-
 An Astronaut's Guide To Life On Earth - Col. Chris Hadfield
 Effective Python - Brett Slatkin
 Into Thin Air - Jon Krakauer
